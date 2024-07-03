@@ -1,0 +1,959 @@
+About Me
+
+
+<html>
+<body oncontextmenu="'STYLE SHEET CREATED BY Eagle Eye'); return false;">
+<link href="//solrainha.github.io/honeybee/honeybee.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Gilda+Display&family=Lovers+Quarrel&family=Marck+Script&family=Parisienne&family=Playfair+Display&family=Playfair+Display+SC&display=swap');
+
+body {
+background-color:#fff;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-image:url('https://i.ibb.co/ZXm6yLL/dcVpY7r.gif');
+background-size:cover;
+background-position: center left;
+}
+
+::-webkit-scrollbar-thumb:vertical { 
+background-color:#6c4c99;  
+border-top: 1px solid #fff; 
+border-bottom: 3px solid #fff;
+border-radius: 50px; }  
+
+::-webkit-scrollbar {
+width:5px; 
+height:0px; 
+background-color:#6c4c99; 
+border: 1px solid #fff; }  
+
+body, a:hover {cursor: url(), url(), progress !important;}
+
+table, tr, td, li, p, div, .profileInfo td.text {
+font-size: 11.5px;
+font-family:'Playfair Display SC', serif;
+color: #fff;
+line-height:13px;
+font-weight:400px;
+text-align:justify;
+}
+
+i {
+float:left;
+color:#fff;
+font-family:arial;
+font-weight:400;
+font-size:11px;
+line-height:12px;
+}
+
+b{
+font-family:EB Garamond', serif;
+font-size:11px;
+text-transform:uppercase;
+text-decoration:none;
+text-align:left;
+color:#fff;
+letter-spacing:1px;}
+
+ 
+TT {
+font-size:11px;
+line-height:12px;
+font-family:courier new;
+color:#fff;
+text-align:justify;
+font-weight:normal;
+letter-spacing:0px;
+text-transform:Uppercase;}
+
+
+h1{
+color: #fff; 
+margin: 0; 
+padding-top: 0; 
+padding-bottom: 0; 
+font-size: 25px; 
+font-family: 'Parisienne', cursive;
+text-transform: normal; 
+text-align: center; 
+line-height:25px;
+letter-spacing:4px;
+margin-bottom:1px; 
+} 
+   
+a.sideBarNavigation:link, a.sideBarNavigation:visited{  
+color:#fff; 
+background:#6c4c99;
+text-decoration: none;
+padding:5px;
+display:inline-block;
+font-family: 'EB Garamond', serif;
+font-size: 14px;
+line-height:15px; 
+letter-spacing: 1px;
+text-transform: uppercase;
+font-weight: 500;
+text-align: center;
+text-transform: capitalize;
+}
+
+a.sideBarNavigation:hover{
+color:#6c4c99;
+}
+
+a.popupLinks:link, a.popupLinks:visited {
+color: #4c3f77;
+padding:5px;
+text-align:center;
+line-height:40px;
+text-decoration: none;
+letter-spacing:3px;
+display: inline-block;
+font-family: 'Gilda Display', serif;
+font-size: 18px;
+letter-spacing:0;
+margin: 4px 2px;
+cursor: pointer;
+width:auto;
+height:auto;
+writing-mode: vertical-rl;
+transform: rotate(-180deg);
+}
+
+a.popupLinks:hover{
+color:#6c4c99;
+}
+
+a.close:link, a.close:visited {
+color: #fff;
+text-align: center;
+line-height:20px;
+text-decoration: none;
+display: inline-block;
+font-family: 'Playfair Display SC', serif;
+font-size: 10px;
+cursor: pointer;
+}
+
+a.friendsLinks:link, a.friendsLinks:visited {
+color:#fff;
+line-hieght:18px;
+vertical-align: top;
+text-align:left;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+text-transform: uppercase;
+font-family:'Ovo', serif;
+font-weight: 400;
+padding-top: 5px;
+}
+
+.container {
+width:815px; 
+height:500px; 
+background:#007f97; 
+position:absolute;
+border:10px solid #007f97;
+top:10px;
+left:0;
+overflow:hidden;
+margin:auto;
+font-family: 'DM Serif Text', serif;
+padding: 10px; 
+}
+
+.navigationBar {
+background:#6c4c99;
+position:absolute;
+width:820px;
+height:25px;
+margin-top:0px;
+margin-left:0px;
+text-align:center;
+}
+
+.infocontainer {
+position:justify;
+width:720px;
+height: 450px;
+margin-top:30px;
+margin-left:75px;
+background:#6c4c99;
+display: inline-block;
+vertical-align: top;
+padding-top: px;
+padding-bottom: px;
+}
+
+.BottomPopups {
+position:absolute;
+display:block;
+width: 25px;
+height:415px;
+text-align:top;
+font-size: 15px;
+padding:10px;
+margin-top:-428px;
+left:5px;
+border-left:2px solid #4c3f77;
+}
+
+.mainImage {
+width: 720px;
+height: 450px;
+background-image:url('https://i.ibb.co/QJvw3ML/019.jpg');
+}
+ 
+#background{
+display:none;
+}
+
+#background:target{
+display: block;
+width: 720px;
+height: 440px;
+border: 2px solid #4c3f77;
+padding: 5px;
+background: #007f97;
+text-align: justify;
+overflow: hidden;
+}
+
+#LoveLife{
+display:none;
+}
+
+#LoveLife:target{
+display: block;
+width: 720px;
+height: 440px;
+border: 2px solid #4c3f77;
+padding: 5px;
+background: #007f97;
+text-align: justify;
+overflow: hidden;
+}
+
+#friends{
+display:none;
+}
+
+#friends:target{
+display: block;
+width: 720px;
+height: 440px;
+border: 2px solid #4c3f77;
+padding: 5px;
+background: #007f97;
+text-align: justify;
+overflow: hidden;
+}
+
+#details{
+display:none;
+}
+
+#details:target{
+display: block;
+width: 720px;
+height: 440px;
+border: 2px solid #4c3f77;
+padding: 5px;
+background: #007f97;
+text-align: justify;
+overflow: hidden;
+}
+
+#family{
+display:none;
+}
+
+#family:target{
+display: block;
+width: 720px;
+height: 440px;
+border: 2px solid #4c3f77;
+padding: 5px;
+background: #007f97;
+text-align: justify;
+overflow: hidden;
+}
+
+.biobox{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:190px;
+height:250px;
+padding:10px;
+margin-top:0px;
+margin-left:0px;
+overflow:auto;
+font-weight:400px;
+font-size:11.5px;
+line-hight:15px;
+text-align:justify;
+}
+
+.biobox2{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:190px;
+height:220px;
+padding:10px;
+margin-top:-250px;
+margin-left:220px;
+overflow:auto;
+text-align:justify;
+}
+
+.icon1 {
+margin-left:0px;
+margin-top:5px;
+width:210px;
+height:100px;
+background-image:url('https://via.placeholder.com/210x100');
+}
+
+.basic{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:190px;
+height:320px;
+padding:10px;
+margin-top:0px;
+margin-left:0px;
+overflow:auto;
+text-align:justify;
+}
+
+.imagetop{
+margin-left:220px;
+margin-top:-365px;
+width:210px;
+height:115px;
+background-image:url('https://i.ibb.co/qjSmdhy/017.jpg');}
+
+.imagemiddle {
+margin-left:435px;
+margin-top:-370px;
+width:275px;
+height:375px;
+background-image:url('https://i.ibb.co/8rVpG9P/018.jpg');
+}
+
+.imageside{
+margin-left:0px;
+margin-top:0px;
+width:210px;
+height:110px;
+background-image:url('https://i.ibb.co/PYzH7vc/016.png');
+}
+
+
+.storylines{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:320px;
+height:150px;
+padding:10px;
+margin-top:-340px;
+margin-left:215px;
+overflow:auto;
+text-align:justify;
+}
+
+.owes{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:220px;
+height:140px;
+padding:10px;
+margin-top:-170px;
+margin-left:465px;
+overflow:auto;
+}
+
+
+.imagebanner{
+margin-left:5px;
+margin-top:0px;
+width:710px;
+height:120px;
+background-image:url('https://i.ibb.co/2PMGBZp/013.jpg');
+}
+
+.loveinfo{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:220px;
+height:195px;
+padding:10px;
+margin-top:10px;
+margin-left:0px;
+overflow:auto;
+}
+
+.blink {
+animation: blinker 1.51s step-start infinite;
+font-size:20px;
+margin-left:255px;
+margin-top:20px;
+color:#fff;
+}
+
+@keyframes blinker {
+50% {
+opacity: 0;
+}}
+
+
+.howtheymet{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:300px;
+height:175px;
+padding:10px;
+margin-top:-215px;
+margin-left:400px;
+overflow:auto;
+}
+
+.image2{
+margin-left:245px;
+margin-top:-225px;
+width:140px;
+height:190px;
+background-image:url('https://i.ibb.co/m47vBHD/012.jpg');
+}
+
+.imageD{
+margin-left:220px;
+margin-top:10px;
+width:225px;
+height:180px;
+background-image:url('https://i.ibb.co/3skcncc/015.jpg');
+}
+
+
+.imageD2{
+margin-left:565px;
+margin-top:-370px;
+width:150px;
+height:180px;
+background-image:url('https://i.ibb.co/DGfQ5v6/014.png');
+}
+
+#pics {
+width:120px;
+height:120px; 
+display:inline; 
+float:left; 
+margin:-50px 0 0px 30px;}
+
+#pics img {
+width:120px; 
+height:120px; 
+border:5px solid #fff; 
+border-bottom:40px solid #fff; 
+display:block; 
+margin:0 0 10px 0; 
+box-shadow:0 0 10px rgba(0,0,0,0.1);}
+
+#pics2 {
+width:120px;
+height:120px; 
+display:inline; 
+float:left; 
+margin:-50px 0 0 10px;}
+
+#pics2 img {
+width:120px; 
+height:120px; 
+border:5px solid #fff; 
+border-bottom:40px solid #fff; 
+display:block; 
+margin:0 0 10px 0; 
+box-shadow: 0px 0 10px rgba(0,0,0,0.1);}
+
+#pics3 {
+width:120px;
+height:120px; 
+display:inline-block; 
+float:left; 
+margin:-50px 0 0 0px;}
+
+#pics3 img {
+width:120px; 
+height:120px; 
+border:5px solid #fff; 
+border-bottom:40px solid #fff; 
+display:block; 
+margin:0 0 10px 0; 
+box-shadow:0 0 10px rgba(0,0,0,0.1);}
+
+#pics4 {
+width:120px;
+height:120px; 
+display:inline; 
+float:left; 
+margin:-50px 0 0px 30px;}
+
+#pics4 img {
+width:120px; 
+height:120px; 
+border:5px solid #fff; 
+border-bottom:40px solid #fff; 
+display:block; 
+margin:0 0 10px 0; 
+box-shadow:0 0 10px rgba(0,0,0,0.1);}
+
+
+.picimg1 {transform:rotate(-5deg);} 
+.picimg2 {transform:rotate(10deg);}
+.picimg3 {transform:rotate(-10deg);}
+.picimg4 {transform:rotate(25deg);}
+
+.geeks{
+postion:absolute;
+color:#fff;
+background:#6c4c99;
+width:300px;
+height:175px;
+padding:10px;
+margin-top:150px;
+margin-left:0px;
+overflow:auto;
+}
+
+.imageG{
+margin-left:335px;
+margin-top:-215px;
+width:375px;
+height:215px;
+background-image:url('https://i.ibb.co/CKj0Gr5/005.png');
+}
+
+.family{
+postion:absolute;
+background:#6c4c99;
+width:270px;
+height:375px;
+padding:10px;
+margin-top:5px;
+margin-left:0px;
+overflow:auto;
+}
+
+.f1container {
+position:relative;
+width: 130px;
+height:170px;
+margin-top:5px;
+margin-left:0px;
+}
+
+.f1image {
+display: block;
+width: 130px;
+height: 170px;
+}
+
+.overlay {
+position: absolute;
+bottom: 0;
+left: 70px;
+right: 0;
+background-color: #008CBA;
+overflow: hidden;
+width: 0;
+height: 100%;
+transition: .5s ease;
+}
+
+.f1container:hover .overlay {
+ width: 130px;
+ left:0;
+}
+
+.infotext {
+position: absolute;
+width:130px;
+height:165px;
+color:#fff;
+padding:10px;
+background-color:#6c4c99;
+border:2px solid #000;
+display: block;
+vertical-align: top;
+font-family: arial;
+font-size: 11px;
+text-align: justify;
+overflow: auto;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+text-align: center;
+}
+
+.f2container {
+position:relative;
+width: 130px;
+height:170px;
+margin-top:-170px;
+margin-left:135px;
+}
+
+.f2image {
+display: block;
+width: 130px;
+height: 170px;
+}
+
+
+.f2container:hover .overlay {
+ width: 130px;
+ left:0;
+}
+
+.f3container {
+position:relative;
+width: 130px;
+height:170px;
+margin-top:5px;
+margin-left:0px;
+}
+
+.f3image {
+display: block;
+width: 130px;
+height: 170px;
+}
+
+.f3container:hover .overlay{
+width:130px;
+left:0;}
+
+.f4container {
+position:relative;
+width: 130px;
+height:170px;
+margin-top:-170px;
+margin-left:135px;
+}
+
+.f4image {
+display: block;
+width: 130px;
+height: 170px;
+}
+
+
+.f4container:hover .overlay {
+ width: 130px;
+ left:0;
+}
+
+.imageh{
+margin-left:335px;
+margin-top:-300px;
+width:375px;
+height:285px;
+background-image:url('https://i.ibb.co/JqM2wjD/001.png');
+}
+
+.quotebox{
+postion:absolute;
+color:#fff;
+width:375px;
+height:95px;
+padding:10px;
+margin-top:-375px;
+margin-left:335px;
+overflow:auto;
+}
+
+
+.contacttable, .whitetext12, .nametext, .lightbluetext8, .orangetext15, .blacktext12, .btext, .redtext, .redbtext {display:none;height:0px;!important;visibility:hidden} td td td td {border:0px;width:0px;text-align:left;} table, td, tr {padding:0px;width:;background-color:transparent} table table table {padding:1px;height:.01%;width:100%;} table table,table table table table,table,tr,td {height:0px;!important;border:0px;!important} a.text, table div font a, .navbar font, tr td font {visibility:hidden;display:none;height:0px;!important;} #footerWarpper{display: none;} table table table table,table table table table td.text, td.text td.text table{display:none;} td.text table table{display:inline;visibility:visible;} table td table tr td.text table{visibility:hidden;} table td table tr td.text table table,table td table tr td.text table table td.text{visibility:visible;} table.footer {display: none;} div table.navigationBar {margin-bottom:-30px;} .profileInfo {display:none;} .profileInfo td {text-align:left;} .profileInfo a img {position:relative; margin-bottom:-1px; margin-bottom:-2px; width:125px; margin-right:-6px; margin-top:4px; _margin-top:3px; display:block;} .profileInfo td td, .nametext, .msOnlineNow img {display:none;} .profileInfo td td.text {display:table-cell; _display:inline;} .profileInfo .text {font-size:7px; line-height:8px; text-transform:uppercase; font-family:small fonts;} .msOnlineNow {font-family:small fonts; letter-spacing:0px; font-size:7px; line-height:8px; padding:2px; padding-left:0px; text-transform:uppercase; font-weight:normal; display:none; text-decoration:blink; letter-spacing:2px;} .userAlbums {display:none;} div td {display:none} 
+</style>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like to meet
+
+
+
+<body>
+<html>
+
+<div class="container">
+<div class="navigationBar">
+<a href="/home.php" class="sideBarNavigation">Leave</a>
+<a href="/send_message.php?member_id=1632695" class="sideBarNavigation">message </a>
+<a href="/add_comment.php?member_id=1632695" class="sideBarNavigation">comment</a>
+<a href="/gallery.php?member_id=1632695" class="sideBarNavigation">Image</a> 
+<a href="/status_stream.php?member_id=1632695" class="sideBarNavigation">Stream</a>
+<a href="https://www.roleplayer.me/view_bulletins.php?member_id=1632695" class="sideBarNavigation">Bulletin</a>
+<a href="/view_member_blog.php?member_id=1632695" class="sideBarNavigation">Blog</a>
+<a href="/view_profile.php?member_id=1350433" class="sideBarNavigation">The Awakening</a>
+<a href="/1693796" class="sideBarNavigation">Credit</a></div>
+
+<div class="infocontainer">
+<div class="mainImage">
+<div id="friends">
+<div style="text-align:right; padding-right:10px;">
+<a href="#close" class="close" style="width: 45px; padding: 8px;">X</a>
+</div>
+<br><br>
+<div id="pics">
+<img src="https://i.ibb.co/Z8Nvp3M/006.jpg" class="picimg1">
+</div>
+
+<div id="pics2">
+<img src="https://i.ibb.co/SVm0mcB/008.jpg" class="picimg2">
+</div>
+
+<div id="pics3">
+<img src="https://i.ibb.co/8PqSDmY/007.jpg" class="picimg3">
+</div>
+
+<div id="pics3">
+<img src="https://i.ibb.co/7NJ7NhQ/009.jpg" class="picimg4">
+</div>
+
+<div class="geeks">
+<h1>Friends</h1>
+<a href="LINK here" class="friendsLinks">Display Name</a>
+<p><img src="https://i.ibb.co/k0dt9MW/010.jpg" width="125" height="125" style="margin:5px 5px 5px 5px;" align="left" /></a>
+Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them.</p>
+
+<a href="LINK here" class="friendsLinks">Display Name</a>
+<p><img src="https://i.ibb.co/k0dt9MW/010.jpg
+https://i.ibb.co/HB9Z0f1/011.jpg" width="125" height="125" style="margin:5px 5px 5px 5px;" align="right" /></a>
+Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them.</p>
+
+<a href="LINK here" class="friendsLinks">Display Name</a>
+<p><img src="https://placehold.co/125x125/png" width="125" height="125" style="margin:5px 5px 5px 5px;" align="left" /></a>
+Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them.</p>
+
+<a href="LINK here" class="friendsLinks">Display Name</a>
+<p><img src="https://placehold.co/125x125/png" width="125" height="125" style="margin:5px 5px 5px 5px;" align="right" /></a>
+Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them. Write about them here. Write about them here. This is the best place to write about them.</p>
+</div>
+<div class="imageG"></div>
+</div>
+<div id="LoveLife">
+<div style="text-align:right; padding-right:10px;">
+<a href="#close" class="close" style="width: 45px; padding: 8px;">X</a>
+</div>
+<h1>"We can only learn to love by loving."</h1>
+<div class="imagebanner"></div>
+
+<div class="loveinfo">
+<b>status:</b> here <br>
+<b>since:</b> here <br>
+<b>to whom:</b> here <br>
+<b>comments:</b> write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. write whatever you want about them here. Can be anything. <br>
+</div>
+
+<div class="howtheymet">
+<h1>This is the story of love</h1>
+<br>
+Write about how they came to love one another. Or write whatever the hell you want. Write about how they came to love one another. Or write whatever the hell you want. Write about how they came to love one another. Or write whatever the hell you want. Write about how they came to love one another. Or write whatever the hell you want. Write about how they came to love one another. Or write whatever the hell you want. Write about how they came to love one another. Or write whatever the hell you want. 
+<br>
+</div>
+<div class="blink">"All you need is love."</div>
+
+<div class="image2"></div>
+
+</div>
+<div id="background">
+<div style="text-align:right; padding-right:10px;">
+<a href="#close" class="close" style="width: 45px; padding: 8px;">X</a>
+</div>
+<h1>This is the Story so far,</h1>
+<div class="biobox">
+<h1>This is the start</h1>
+Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here.<br><br>
+
+Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here.<br><br>
+
+Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here.<br><br>
+</div>
+<div class="imageside"></div>
+
+<div class="biobox2">
+<h1>This is how I died</h1>
+Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here.<br><br>
+
+Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here.<br><br>
+
+Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here. Writing goes here this is the best place for you to write your character's background story. Write here, background can go here.<br><br>
+</div>
+
+<div class="imagemiddle"></div>
+<div class="imagetop"></div>
+
+</div>
+
+<div id="details">
+<div style="text-align:right; padding-right:10px;">
+<a href="#close" class="close" style="width: 45px; padding: 8px;">X</a>
+</div>
+<h1>RolePlaye Business</h1>
+<br>
+<div class="basic">
+<h1>Basics</h1>
+<br><b>Name:</b> Character Name Here.
+<br><b>NICKNAMES:</b> Write those here.
+<br><b>ALIASES:</b> Write those here.
+<br><b>Age:</b> Twenty Eight.
+<br><b>Place of Birth:</b> Write that here.
+<br><b>Current Residence:</b> Write where you live here.
+<br><b>Ethincity:</b> Write answer here.
+<br><b>Hair color:</b> Write answer here. 
+<br><b>EYE COLOR:</b> Write answer here. 
+<br><b>Hieght:</b> Character height goes here. 
+<br><b>Weight:</b> Character weight goes here.
+<br><b>LikeS:</b> Write what they like here. 
+<br><b>Dislikes:</b> Write here what they dislike.
+<br><b>Addictions:</b> Write here if they have an addiction to anything. 
+<br><b>Strengths:</b> This is the place to write their strengths.
+<br><b>Weaknes:</b> This is the place to write their weakness. 
+<br><b>Bbirthmarks:</b> If they have a birthmark write here. 
+<br><b>Scars:</b> If they have scars put that here.
+</div>
+
+<div class="storylines">
+<h1>Plot Ideas</h1>
+<p>Character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. The character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. The character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. </p>
+
+<p>Character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. The character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. The character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. </p>
+
+<p>Character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. The character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. The character is open to this roleplay idea if interested please send a message to me. write a random plot idea here. Have a blot idea write that here. </p>
+</div>
+
+<div class="imageD"></div>
+
+<div class="owes">
+<h1>Owes</h1>
+<p><b>I Owe - Name Here:</b> <TT>00|00</TT></p>
+<p><b>I Owe - Name Here:</b> <TT>00|00</TT></p>
+<p><b>I Owe - Name Here:</b> <TT>00|00</TT></p>
+<p><b>I Owe - Name Here:</b> <TT>00|00</TT></p>
+
+<p><b>They Owe Me- Name Here:</b> <TT>00|00</TT></p>
+<p><b>They Owe Me- Name Here:</b> <TT>00|00</TT></p>
+<p><b>They Owe Me- Name Here:</b> <TT>00|00</TT></p>
+<p><b>They Owe Me- Name Here:</b> <TT>00|00</TT></p>
+<p><b>They Owe Me- Name Here:</b> <TT>00|00</TT></p>
+</div>
+<div class="imageD2"></div>
+</div>
+
+<div id="family">
+<div style="text-align:right; padding-right:10px;">
+<a href="#close" class="close" style="width: 45px; padding: 8px;">X</a>
+</div>
+<div class="family">
+<h1>Mains:</h1>
+<div class="f1container">
+<img src="https://i.ibb.co/1LpVMcP/001.jpg" class="f1image">
+<div class="overlay">
+<div class="infotext"><a href="LINK here" class="friendsLinks">Display Name</a><br>
+Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. </p>
+</div>
+</div>
+</div>
+
+<div class="f2container">
+<img src="https://i.ibb.co/ypwzBVW/002.jpg" class="f2image">
+<div class="overlay">
+<div class="infotext"><a href="LINK here" class="friendsLinks">Display Name</a><br>
+Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. </p>
+</div>
+</div>
+</div>
+
+<div class="f3container">
+<img src="https://i.ibb.co/smC8c17/003.jpg" class="f3image">
+<div class="overlay">
+<div class="infotext"><a href="LINK here" class="friendsLinks">Display Name</a><br>
+Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. </p>
+</div>
+</div>
+</div>
+
+<div class="f4container">
+<img src="https://i.ibb.co/9njXv31/004.jpg" class="f4image">
+<div class="overlay">
+<div class="infotext"><a href="LINK here" class="friendsLinks">Display Name</a><br>
+Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. Write here. Write about your friends here, this is the place you wanna write about them. </p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="imageh"></div>
+
+<div class="quotebox"><h1>"The memories we make with our family are everything."</h1></div>
+</div>
+</div>
+
+
+<div class="BottomPopups">
+<a href="#background" class="popupLinks">My Journey</a>
+<a href="#details" class="popupLinks">Basics</a>
+<a href="#LoveLife" class="popupLinks">This Love</a>
+<a href="#friends" class="popupLinks">Friends</a>
+<a href="#family" class="popupLinks">Family</a>
+</div>
+
+</div>
+</body>
+</html>
